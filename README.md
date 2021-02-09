@@ -1,2 +1,2 @@
 # MathParser
-Simple math engine to parse basic equations
+Simple math engine to evaluate basic equations
