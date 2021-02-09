@@ -1,0 +1,7 @@
+C:\Users\mates\Documents\REPOS\MathParser\MathEval\MathEval\bin\Debug\MathEval.exe.config
+C:\Users\mates\Documents\REPOS\MathParser\MathEval\MathEval\bin\Debug\MathEval.exe
+C:\Users\mates\Documents\REPOS\MathParser\MathEval\MathEval\bin\Debug\MathEval.pdb
+C:\Users\mates\Documents\REPOS\MathParser\MathEval\MathEval\obj\Debug\MathEval.csprojAssemblyReference.cache
+C:\Users\mates\Documents\REPOS\MathParser\MathEval\MathEval\obj\Debug\MathEval.csproj.CoreCompileInputs.cache
+C:\Users\mates\Documents\REPOS\MathParser\MathEval\MathEval\obj\Debug\MathEval.exe
+C:\Users\mates\Documents\REPOS\MathParser\MathEval\MathEval\obj\Debug\MathEval.pdb
